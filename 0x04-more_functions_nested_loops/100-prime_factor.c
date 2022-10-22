@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
-  * main - checks prime factors of numbers
-  * prints the largest;
-  *
-  * Return: 0
-  */
+ * main - checks prime factors of numbers
+ * prints the largest;
+ *
+ * Return: 0 
+ */
 
 int main(void)
 {
