@@ -12,7 +12,7 @@ void more_numbers(void)
 
 	for (i = 48; i < 58; i++)
 	{
-		for (j = 48; j > 63; j++)
+		for (j = 48; j < 63; j++)
 		{
 			if (j > 57)
 			{
