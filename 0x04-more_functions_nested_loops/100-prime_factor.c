@@ -21,6 +21,7 @@ int main(void)
 
 			a--;
 		}
+
 	}
 
 	printf("%1d\n", a);
