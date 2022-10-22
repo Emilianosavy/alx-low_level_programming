@@ -17,6 +17,7 @@ int main(void)
 	{
 		if (num % a == 0)
 		{
+
 			num = num / a;
 
 			a--;
