@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-
 /**
   * main - checks prime factors of numbers
   * prints the largest;
   *
-  *Return: 0
+  * Return: 0
   */
+
 int main(void)
 {
 	long int num, a;
@@ -23,7 +23,7 @@ int main(void)
 		}
 	}
 
-	printf("%Id\n", a);
+	printf("%1d\n", a);
 
 	return (0);
 }
