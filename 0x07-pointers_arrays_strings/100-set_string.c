@@ -2,8 +2,8 @@
 
 /**
  * set_string - sets the value of a pointer to a char
- * @s: the pointer to set
- * @to: the string
+ * @s: the pointer
+ * @to: string
  *
  * Return: void
  */
