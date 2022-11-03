@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _pow_recursion - returns value of x 
+ * _pow_recursion - returns value of x
  * @x: the first number
  * @y: second number
  *
- * Return: x is raised 
+ * Return: x is raised
  */
 int _pow_recursion(int x, int y)
 {
