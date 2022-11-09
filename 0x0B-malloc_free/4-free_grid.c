@@ -1,20 +1,20 @@
 #include "main.h"
 
 /**
- * free_grid - fress a 2 dimensional grid
- * @grid: pointer to grid
- * @height: height of grid
+ * free_grid - frees space to a 2 dimensional array
+ * @grid: grid
+ * @height: height
  *
  * Return: void
  */
 void free_grid(int **grid, int height)
 {
-		int i;
+	int i;
 
-		for (i = 0; i < height; i++)
-		{
-			free(grid[i]);
-		}
+	for (i = 0; i < height; i++)
+	{
+		free(grid[i]);
+	}
 
-		free(grid);
+	free(grid);
 }
