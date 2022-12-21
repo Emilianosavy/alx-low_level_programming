@@ -1,1 +1,2 @@
-0x13 More singly linked lists
+0x13 More singly linked lists...
+This is a project of more singly linked lists.
